@@ -24,7 +24,7 @@ Follow these steps to run EverOn on your local machine:
 
 1. **Clone the Repository**
 
-`git clone https://github.com/your-username/everon-radio-app.git && cd everon-radio-app`
+`(https://github.com/SrinivasPaiM/EverON-Radio.git)`
 
 2. **Install Dependencies**
 
